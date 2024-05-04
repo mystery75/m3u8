@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5709000,RESOLUTION=1920x1080,FRAME-RATE=60
-http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282632&extension=ts&play_token=8elHzUlVi6
+#EXT-X-STREAM-INF:PROGRAM-ID=1,
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282632&extension=ts
