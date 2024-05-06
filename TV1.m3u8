@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-INDEPENDENT-SEGMENTS
 
 #EXT-X-STREAM-INF:BANDWIDTH=546239,CODECS="mp4a.40.5,avc1.4d4015",RESOLUTION=426x240,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b346000_slENG.m3u8?id=1
@@ -13,5 +12,4 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b1096000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
 # keyframes
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=9000000,CODECS="avc1.64002a",RESOLUTION=1920x1080,FRAME-RATE=60,VIDEO-RANGE=SDR,URI="keyframes/chunklist_b2596000_slENG.m3u8?id=1"
 #EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=18000000,CODECS="avc1.64002a",RESOLUTION=3840x2160,FRAME-RATE=60,VIDEO-RANGE=SDR,URI="keyframes/chunklist_b2596000_slENG.m3u8?id=1"
