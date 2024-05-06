@@ -13,4 +13,4 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b1096000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
 
 # keyframes
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=18000000,CODECS="avc1.64002a",RESOLUTION=3840x2160,FRAME-RATE=60,VIDEO-RANGE=SDR
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=7171631,CODECS="avc1.64002a",RESOLUTION=3840x2160,FRAME-RATE=60,VIDEO-RANGE=SDR,URI="keyframes/chunklist_b2596000_slENG.m3u8?id=1"
