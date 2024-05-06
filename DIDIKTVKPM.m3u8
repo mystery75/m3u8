@@ -10,3 +10,6 @@ https://live-streams-ssai-01.tonton.com.my/live/0e27ef78-4cc9-4c62-bec9-5c946c9e
 https://live-streams-ssai-01.tonton.com.my/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/live.isml/live-audio_0=96000-video=3000000.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5709000,AVERAGE-BANDWIDTH=5190000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=1920x1080,FRAME-RATE=60,VIDEO-RANGE=SDR,AUDIO="audio-aacl-96",CLOSED-CAPTIONS=NONE
 https://live-streams-ssai-01.tonton.com.my/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/live.isml/live-audio_0=96000-video=4800000.m3u8
+
+# keyframes
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=18000000,CODECS="avc1.64001F",RESOLUTION=3840x2160,FRAME-RATE=60,VIDEO-RANGE=SDR,URI="keyframes/live-audio_0=96000-video=4800000.m3u8"
