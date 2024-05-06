@@ -18,4 +18,4 @@ https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c910
 https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/cmaf-video=4800000.m3u8
 
 # keyframes
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=18000000,CODECS="avc1.640028",RESOLUTION=3840x2160,FRAME-RATE=60,VIDEO-RANGE=SDR,URI="keyframes/cmaf-video=4800000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=18000000,CODECS="avc1.64001F",RESOLUTION=3840x2160,FRAME-RATE=60,VIDEO-RANGE=SDR,URI="keyframes/cmaf-video=4800000.m3u8"
