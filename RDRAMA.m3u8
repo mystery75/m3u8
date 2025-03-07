@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXT-X-MEDIA:LANGUAGE="ENG",AUTOSELECT=YES,FORCED=NO,TYPE=SUBTITLES,URI="https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/manifest/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/850d8ffe-5132-43b4-9653-3c1bcf45289c/5.m3u8",GROUP-ID="subtitle",DEFAULT=YES,NAME="eng_full"
+#EXT-X-MEDIA:LANGUAGE="ENG",AUTOSELECT=YES,FORCED=NO,TYPE=SUBTITLES,URI="https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/manifest/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/850d8ffe-5132-43b4-9653-3c1bcf45289c/5.m3u8",GROUP-ID="subtitle",DEFAULT=NO,NAME="eng_full"
 #EXT-X-MEDIA:LANGUAGE="ENG",AUTOSELECT=NO,FORCED=YES,TYPE=SUBTITLES,URI="https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/manifest/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/850d8ffe-5132-43b4-9653-3c1bcf45289c/6.m3u8",GROUP-ID="subtitle",DEFAULT=NO,NAME="eng_forced"
 
 
