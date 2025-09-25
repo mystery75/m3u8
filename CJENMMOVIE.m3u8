@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=29.97,BANDWIDTH=5178241
+https://95287a9bc6614dc3a4ea85008d215640.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f835d3dc-aec9-40da-b079-99bddf79b74e/0.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=29.97,BANDWIDTH=2162647
+https://95287a9bc6614dc3a4ea85008d215640.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f835d3dc-aec9-40da-b079-99bddf79b74e/1.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=864x480,FRAME-RATE=29.97,BANDWIDTH=1115093
+https://95287a9bc6614dc3a4ea85008d215640.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f835d3dc-aec9-40da-b079-99bddf79b74e/2.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.42c01e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=29.97,BANDWIDTH=856633
+https://95287a9bc6614dc3a4ea85008d215640.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f835d3dc-aec9-40da-b079-99bddf79b74e/3.m3u8
+#EXT-X-STREAM-INF:CODECS="avc1.42c014,mp4a.40.2",RESOLUTION=480x270,FRAME-RATE=29.97,BANDWIDTH=444322
+https://95287a9bc6614dc3a4ea85008d215640.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f835d3dc-aec9-40da-b079-99bddf79b74e/4.m3u8
